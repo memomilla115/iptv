@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", AZTECA 7 
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", AZTECA 7 2
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", AZTECA 7 3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO",AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="MEXICO",Cartoon Network 
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="MEXICO",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5LWQNpiN7rtM13CbEh5L-uG4AQXcwX85fg&usqp=CAU" group-title="MEXICO",Las Estrellas 
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5LWQNpiN7rtM13CbEh5L-uG4AQXcwX85fg&usqp=CAU" group-title="MEXICO",Las Estrellas 2
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="MEXICO",Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="Bics", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/456/166/png-transparent-fox-sports-networks-fox-sports-radio-fox-sports-2-tnt-comedy-television-text-label.png" group-title="MEXICO",FOX Sports
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/ITV-Logo.png" group-title="MEXICO",ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jOJk895V3pzx3VwAYIMG1_h2-vQypKMXmjQ0Xcp3BI2UQ41IgAt1aaT5iIrG7ngGGUU&usqp=CAU" group-title="MEXICO",26 Aguascalientes TV
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/8/f/48fad35edc99c23139c0bb63fa05c709_icon.png" group-title="Bics Extra", TUDN MX
+http://181.189.243.217:8000/play/a0ud/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/8/f/48fad35edc99c23139c0bb63fa05c709_icon.png" group-title="Bics Extra", TUDN MX 2
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/claro-sports3578.logowik.com.webp"group-title="Bics Extra", Claro Sports
+http://190.149.66.90:4000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es"group-title="Bics Extra", Claro Sports 2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+
